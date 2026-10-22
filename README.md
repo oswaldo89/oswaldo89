@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oswaldo Gomez</h1>
-<h3 align="center">Software Engineer · Mobile, Web & Backend · Android at heart 💚</h3>
+<h3 align="center">Software Engineer · Mobile, Web, Backend & AI · Android at heart 💚</h3>
 
 <p align="center">
   📍 Monterrey, Mexico &nbsp;·&nbsp;
@@ -15,7 +15,8 @@
 - 💚 **Android is my passion**: native apps with Kotlin, Jetpack Compose, MVVM and Clean Architecture.
 - 🌐 Web & backend experience with **TypeScript, Angular, Node.js, .NET/C# and PHP**.
 - 🗄️ Comfortable with SQL and NoSQL data stores, cloud (**AWS**, Firebase) and CI/CD pipelines.
-- 🚀 Currently exploring **Kotlin Multiplatform** to share code across platforms.
+- 📲 Building cross-platform apps for Android and iOS with **Kotlin Multiplatform**.
+- 🤖 Building **AI agents** and LLM-powered tools, and training machine learning models with **Python**.
 - 💼 Experience shipping high-traffic products, including **Cornershop by Uber**.
 
 ### 🛠️ Tech stack
@@ -39,6 +40,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 **Databases, Cloud & DevOps**
